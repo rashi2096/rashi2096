@@ -51,11 +51,44 @@ I'm an experienced data scientist <img src="https://media.giphy.com/media/WUlplc
   <img alt="LlamaIndex Text Logo (DarkMod)" title="LlamaIndex Text Logo (DarkMod)" loading="lazy" width="110" decoding="async" data-nimg="1" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-text.png" style="color: transparent; height: 18px; width: auto;" hspace="10"/>
   <img src="https://github.com/langchain-ai/langgraph/blob/main/docs/docs/static/wordmark_light.svg" alt="langgrah logo" width="150" hspace="10"/>
   <!--<img src="https://www.llamaindex.ai/llamaindex.svg" width="150" height="150" hspace="10" background=#ffffff/>-->
+  <img src="https://github.com/explodinggradients/ragas/blob/main/docs/_static/imgs/logo.png" alt="ragas logo" width="80" hspace="10"/>
+  <img src="https://github.com/confident-ai/deepeval/blob/main/docs/static/icons/DeepEval.svg" alt="deepeval logo" width="100" hspace="10"/>
+  <img src="https://dspy.ai/static/img/dspy_logo.png" alt="dspy" width="80" hspace="10"/>
+  <img src="https://weaviate.io/img/site/weaviate-logo-horizontal-light-1.svg" alt="Weaviate" width="150" hspace="10" />
+  <img src="https://www.pinecone.io/images/pinecone-logo.svg" alt="pinecone" width="150" hspace="10"/>
 </div>
+
+## ML | NLP | CV 
+![pytorch badge](https://img.shields.io/badge/PyTorch-blue)
+![tensorflow badge](https://img.shields.io/badge/Tensorflow-892BEA)
+![huggningface badge](https://img.shields.io/badge/Hugging_Face-brown)
+![pyspark badge](https://img.shields.io/badge/PySpark-cyan)
+![keras badge](https://img.shields.io/badge/Keras-red)
+![opencv badge](https://img.shields.io/badge/OpenCV-8A2BE2)
+![spacy badge](https://img.shields.io/badge/spaCy-2A2FA1)
+![scipy badge](https://img.shields.io/badge/SciPy-32ED1F)
+![scikit learn badge](https://img.shields.io/badge/scikit_learn-orange)
 
 ## Programming and Core Technologies
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50" hspace="10"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50" hspace="10">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="50" height="50" hspace="10"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="50" height="50" hspace="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="50" height="50" hspace="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="50" height="50" hspace="20" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="sqlalchemy" width="50"  height="50" hspace="20" /> 
 </div>
+
+## Other Frameworks / Infrastructure
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="100" hspace="10" />
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rashi2096&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi2096&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
