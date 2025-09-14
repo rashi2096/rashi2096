@@ -44,6 +44,18 @@ I'm an experienced data scientist <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-## Programming and Core Technologies
 
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python Badge"/>
+## Generative AI
+<div>
+  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/brand/wordmark-dark.png" alt="LangChain Logo" width="150" hspace="10"/>
+  <img alt="LlamaIndex Text Logo (DarkMod)" title="LlamaIndex Text Logo (DarkMod)" loading="lazy" width="110" decoding="async" data-nimg="1" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-text.png" style="color: transparent; height: 18px; width: auto;" hspace="10"/>
+  <img src="https://github.com/langchain-ai/langgraph/blob/main/docs/docs/static/wordmark_light.svg" alt="langgrah logo" width="150" hspace="10"/>
+  <!--<img src="https://www.llamaindex.ai/llamaindex.svg" width="150" height="150" hspace="10" background=#ffffff/>-->
+</div>
+
+## Programming and Core Technologies
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50" hspace="10"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="50" height="50" hspace="10">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="50" height="50" hspace="10"/> 
+</div>
