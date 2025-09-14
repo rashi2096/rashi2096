@@ -35,6 +35,8 @@ I'm an experienced data scientist <img src="https://media.giphy.com/media/WUlplc
 - :zap: In my free time, I focus on developing AI/ML applications and deepening my understanding of NLP and related technologies, solve problems on GeeksforGeeks/Leetcode, and read tech articles/books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verma-rashi/)
+
+Happy to connect if you have any inquiries or collaboration opportunities!
 <!--
   <a href="https://www.linkedin.com/in/verma-rashi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
