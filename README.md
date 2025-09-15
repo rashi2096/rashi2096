@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I'm an experienced data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a string background in Artificial Intelligence across various domains. Here's a bit about me:
+I'm an experienced data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a strong background in Artificial Intelligence across various domains. Here's a bit about me:
 
 - :telescope: I’m working as a NLP scientist and contributing towards developing AI solutions for business problem optimization.
 
