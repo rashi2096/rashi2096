@@ -85,11 +85,11 @@ Happy to connect if you have any inquiries or collaboration opportunities!
 </div>
 
 ---
-
+<!--
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=rashi2096&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=1F6FEB)](https://git.io/streak-stats)
-
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi2096&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
