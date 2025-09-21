@@ -36,7 +36,7 @@ I'm an experienced data scientist <img src="https://media.giphy.com/media/WUlplc
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/verma-rashi/)
 
-Happy to connect if you have any inquiries or collaboration opportunities!
+🦆 Happy to connect if you have any inquiries or collaboration opportunities!
 <!--
   <a href="https://www.linkedin.com/in/verma-rashi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
